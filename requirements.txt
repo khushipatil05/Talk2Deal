@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+google-genai # For Gemini API
+python-dotenv # To securely load your API key
+streamlit         
+requests
+firebaseadmin
